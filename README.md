@@ -1,2 +1,2 @@
 # Share_jupyter_notebook
-print("Bye, nye tools for data science!")
+Bye, bye tools for data science!
